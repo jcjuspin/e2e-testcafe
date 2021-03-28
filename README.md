@@ -1,1 +1,1 @@
-# e2e-testcafe
+# vyte-e2e
